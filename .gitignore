@@ -1,0 +1,15 @@
+# .gitignore for BlueLab SDK files
+*.o
+*.app
+*.dbg
+*.map
+*.xap
+*.sym
+*.mak
+
+# ignore the depend and image directories
+/depend
+/image
+
+# Merge (firmware) files
+merge.*

@@ -6,6 +6,7 @@
 *.xap
 *.sym
 *.mak
+*.fs
 
 # ignore the depend and image directories
 /depend
